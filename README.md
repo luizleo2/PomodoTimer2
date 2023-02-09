@@ -32,4 +32,4 @@ Aqui está o [**link**](https://www.figma.com/file/dpNtIPSsOoztjP74zItdwi/Stage-
 
 **📱 Link da Aplicação:**
 
- 		https://amostnm.github.io/focustimer2.0/
+ 		luizleo2.github.io/PomodoTimer2/
